@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "mcp__ns-api__list-endpoints",
+      "mcp__ns-api__get-server-variables",
+      "mcp__ns-api__get-endpoint",
+      "Bash(npm run build:*)",
+      "Bash(timeout 10s npm run dev)",
+      "Bash(npm run dev:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
