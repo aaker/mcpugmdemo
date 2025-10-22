@@ -56,8 +56,8 @@ export class NetSapiensWorkflow {
       const userData: User = {
         user: config.fakeUser.username,
         domain: config.fakeDomain,
-        'name-first': config.fakeUser.firstName,
-        'name-last': config.fakeUser.lastName,
+        'name-first-name': config.fakeUser.firstName,
+        'name-last-name': config.fakeUser.lastName,
         'email-address': config.fakeUser.email,
         password: 'Demo123!',
         synchronous: 'yes',

@@ -21,8 +21,8 @@ export interface Domain {
 export interface User {
     user: string;
     domain: string;
-    'name-first': string;
-    'name-last': string;
+    'name-first-name': string;
+    'name-last-name': string;
     'email-address'?: string;
     password?: string;
     'synchronous'?: 'yes' | 'no';
