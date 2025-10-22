@@ -29,6 +29,7 @@ Build a new typescript node.js application that will use the netsapiens api mcp 
 
 ### End result (potentially)
 
-![alt text](image-3.png)
+* move to "app-built" branch for the claude written code 
 
+![alt text](image-3.png)
 
